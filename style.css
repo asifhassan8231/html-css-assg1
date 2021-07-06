@@ -1,0 +1,91 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+section{
+    display: flex;
+}
+.width-correction{
+    width: 50%;
+    margin: 50px 70px 30px 70px;
+    
+}
+.width-correction img{
+    width: 70%;
+}
+h1{
+    font-size: 4em;
+}
+.width-correction p{
+    font-size: 20px;
+}
+.green{
+    color: green;
+}
+.button-design{
+    text-decoration: none;
+    background-image: linear-gradient(green,olive);
+    padding: 7px 20px;
+    border-radius: 15px;
+}
+.white-text{
+    font-weight: 800;
+    color: white;
+}
+#right-side{
+    margin: 100px 50px 100px 700px;
+}
+#right-side h2{
+    font-size: 40px;
+}
+#right-side p{
+    font-size: 20px;
+}
+#mid-banner{
+    background-image: url(images/mid-banner.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100%;
+
+}
+#recipe-section h2{
+    font-size: 40px;
+}
+#recipe-section p{
+    font-size: 20px;
+}
+#recipe-section{
+text-align: center;
+margin:50px 250px 50px 250px;
+}
+.bottom-section{
+    width: 30%;
+    margin: 100px;
+    padding:10px 10px 10px 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 7px 5px gray;
+}
+.bottom-section img{
+    width: 70%;    
+}
+footer{
+    background-color: olive;
+    text-align: center;
+    padding: 20px 200px 20px 200px;
+}
+footer h2{
+    font-size: 30px;
+}
+.nav-design{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(249, 253, 7),olive);
+    padding: 7px 20px;
+    border-radius: 5px;
+}
+.navigation{
+    text-align: right;
+    margin: 20px 50px 30px 50px;
+}
+
+
